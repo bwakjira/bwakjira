@@ -119,7 +119,7 @@ I am a passionate **Software Engineer** specializing in full-stack web and backe
 
 <div align="center">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=bariewakjira-coder&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Barie's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=bwakjira&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Barie's GitHub Stats" />
   </p>
   <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=bariewakjira-coder&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
