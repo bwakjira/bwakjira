@@ -3,7 +3,7 @@
 # ⚡ Barie Wakjira ⚡
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software + Engineer;Flutter+Developer;Full-Stack+Developer;AI+Application+Developer" height="70" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Flutter+Developer;Full-Stack+Developer;AI+Application+Developer" height="70" />
 </p>
 
 <br>
